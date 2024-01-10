@@ -31,7 +31,7 @@ To get started with Flash Chat, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flash-chat.git
+   git clone git@github.com:kcchawla85/FlashChat.git
    ```
 
 2. Open the project in Android Studio.
